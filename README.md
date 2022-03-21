@@ -1,4 +1,13 @@
 ### Hi there 👋
+- 📖  I am a 4th year student of Computer Engineering at the University of La Laguna, specifically the computing branch.
+
+## Contact with me 🙋🏽‍♂️
+<p align="left">
+<a href="https://www.linkedin.com/in/eduardo-exp%C3%B3sito-barrera-b31b62234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+</p>
+
+---
+
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=EduardoEB3&count_private=true&theme=github_dark&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoEB3&langs_count=5&theme=github_dark)]()
 
