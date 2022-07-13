@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 📖  I am a 4th year student of Computer Engineering at the University of La Laguna, specifically the computing branch.
+- 📖  I am a Computer Engineer by the University of La Laguna, specialized in computer science.
 
 ## Contact with me 🙋🏽‍♂️
 <p align="center">
