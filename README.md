@@ -9,7 +9,7 @@
 ---
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=EduardoEB3&count_private=true&theme=github_dark&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoEB3&langs_count=8&theme=github_dark)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoEB3&langs_count=6&theme=github_dark)]()
 
 <!--
 **EduardoEB3/EduardoEB3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
