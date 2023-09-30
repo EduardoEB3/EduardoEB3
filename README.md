@@ -3,12 +3,14 @@
 
 ## Contact with me 🙋🏽‍♂️
 <p align="center">
-<a href="https://www.linkedin.com/in/eduardo-exp%C3%B3sito-barrera-b31b62234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/eduardo-exp%C3%B3sito-barrera-b31b62234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
 </p>
 
 ---
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=EduardoEB3&count_private=true&theme=github_dark&showicons=true)]()
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/?username=EduardoEB3&count_private=true&theme=github_dark&showicons=true" />
+</p>
 <!--[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoEB3&exclude_repo=Traffic-Signs-Recognition&langs_count=5&theme=github_dark)]()-->
 
 <!--
