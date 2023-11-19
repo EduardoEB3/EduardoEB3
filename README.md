@@ -10,7 +10,7 @@
 
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/?username=EduardoEB3&count_private=true&theme=github_dark&showicons=true" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoEB3&exclude_repo=Traffic-Signs-Recognition, CryptoZombies&langs_count=5&theme=github_dark" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoEB3&exclude_repo=Traffic-Signs-Recognition,CryptoZombies&langs_count=5&theme=github_dark" />
 </p>
 
 <!--
